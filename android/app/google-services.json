@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "871033169726",
+    "project_id": "arora-brush-27f71",
+    "storage_bucket": "arora-brush-27f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871033169726:android:9a3430c17325509094ae6f",
+        "android_client_info": {
+          "package_name": "com.artpavilionproducts.admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871033169726-rgdoqrhasdbpd32tc9r2lvsq1i5e5ikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtS-p2897UDPmqhgWvd4dqSJr5ShQ-rEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871033169726-rgdoqrhasdbpd32tc9r2lvsq1i5e5ikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871033169726:android:05cd88c822580f9d94ae6f",
+        "android_client_info": {
+          "package_name": "com.artpavilionproducts.arorabrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871033169726-rgdoqrhasdbpd32tc9r2lvsq1i5e5ikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtS-p2897UDPmqhgWvd4dqSJr5ShQ-rEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871033169726-rgdoqrhasdbpd32tc9r2lvsq1i5e5ikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
