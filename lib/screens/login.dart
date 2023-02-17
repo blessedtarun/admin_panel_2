@@ -150,7 +150,7 @@ class _AdminSignInScreenState extends State<AdminSignInScreen> {
                 height: 25.0,
               ),
               CustomButton(
-                color: Theme.of(context).primaryColor,
+                // color: Theme.of(context).primaryColor,
                 text: 'Login',
                 textColor: Colors.white,
                 click: () {

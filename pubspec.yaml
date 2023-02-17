@@ -3,7 +3,7 @@ description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -24,7 +24,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -41,15 +40,14 @@ dependencies:
   pdf: ^3.1.0
   #image: ^2.0.7
   #flutter_downloader: ^1.6.1
-  file_picker: 
+  file_picker:
   path: ^1.7.0
-  http: 
+  http:
   path_provider: ^2.0.2
-  permission_handler: 
+  permission_handler:
   google_fonts:
   firebase_messaging: ^14.2.3
   firebase_core:
-  
 
 dev_dependencies:
   flutter_test:
@@ -65,12 +63,12 @@ flutter:
     - family: Signatra
       fonts:
         - asset: assets/fonts/Signatra.ttf
-#    - family: NotoSerifBold
-#      fonts:
-#        - asset: assests/fonts/NotoSerif-Bold.ttf
-#    - family: NotoSerif
-#      fonts:
-#        - asset: assests/fonts/NotoSerif-Regular.ttf
+  #    - family: NotoSerifBold
+  #      fonts:
+  #        - asset: assests/fonts/NotoSerif-Bold.ttf
+  #    - family: NotoSerif
+  #      fonts:
+  #        - asset: assests/fonts/NotoSerif-Regular.ttf
 
   assets:
     - images/welcome.png
